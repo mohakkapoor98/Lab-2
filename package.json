@@ -5,7 +5,8 @@
   "main": "firstExpressApp.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon .\\firstExpressApp.js"
+    "dev": "nodemon .\\firstExpressApp.js",
+    "start": "node .\\firstExpressApp.js"
   },
   "author": "Mohak Mohak",
   "license": "ISC",
